@@ -1,4 +1,4 @@
-# ML-Project
+# ML-Projects
 
 Machine Learning with Python
 
