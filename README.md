@@ -19,3 +19,5 @@ Project #4 Breast Cancer classifier model Using followig Classification techniqu
   - Desision Tree
   - XGBoost
   - Random Forest
+
+Project #5 Predicting future GPU's Performance using Regression
