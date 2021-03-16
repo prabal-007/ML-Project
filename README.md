@@ -26,3 +26,6 @@ Project #5 Predicting future GPU's Performance using Regression
 Project #6 Stock Prices Prediction Using Machine Learning and Deep Learning Techniques
   - Moving Average
   - LSTM
+
+Project #7 Horse Colic Dataset 
+  - Principal Component Analysis
