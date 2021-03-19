@@ -29,3 +29,9 @@ Project #6 Stock Prices Prediction Using Machine Learning and Deep Learning Tech
 
 Project #7 Horse Colic Dataset 
   - Principal Component Analysis
+
+Project #8 Otto Group Product Classification
+  - Logistic Regression
+  - Random Forest
+  - Suport Vector Machine
+  - XGBoost
