@@ -39,3 +39,4 @@ Project #8 Otto Group Product Classification
 Project #9 Mall Customer Segmentation
   - KMeans clustering
   - Agglomerative/Hierarchical Clustering
+
