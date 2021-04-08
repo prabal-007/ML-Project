@@ -6,7 +6,7 @@ Project #1 Co2_emission_model
 
 Project #2
 
-Project #3 Red Wine Quality Prediction Using followig Classification techniques in Machine Learning:
+Project #3 Red Wine Quality Prediction Using followig Classification techniques in Machine Learning: 
   - Logistic Regression
   - Desision Tree
   - XGBoost
