@@ -40,3 +40,5 @@ Project #9 Mall Customer Segmentation
   - KMeans clustering
   - Agglomerative/Hierarchical Clustering
 
+Project #10 Zoo Classiication
+  - Naive Bayes 
