@@ -297,7 +297,3 @@ plt.legend( ('died', 'euthanized', 'lived'))
 
 
 # In[ ]:
-
-
-
-
