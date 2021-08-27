@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 
-# #### Importing the data
+##### Importing the data
 
 # In[2]:
 
