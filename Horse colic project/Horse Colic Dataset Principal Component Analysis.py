@@ -15,7 +15,6 @@ warnings.filterwarnings('ignore')
 
 # In[2]:
 
-
 df = pd.read_csv(r'C:\Users\admin\Downloads\Horse colic project\horse.csv')
 
 df.head()
